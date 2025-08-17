@@ -1,1 +1,0 @@
-# D-A-in-Excel-Power-Query-Pivot-Tables-
