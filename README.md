@@ -10,4 +10,5 @@ Cleaned Data.xlsx
 -Analysis
 Pivot tables & Daynamic Dashboard
 Final Result.xlsx
-<img width="369" height="250" alt="image" src="https://github.com/user-attachments/assets/a5f17362-4a6f-45b6-bc4c-a44291c8a9bd" />
+<img width="1530" height="705" alt="image" src="https://github.com/user-attachments/assets/1690fe84-5c22-4dae-a0b8-1576cd7f4e51" />
+
