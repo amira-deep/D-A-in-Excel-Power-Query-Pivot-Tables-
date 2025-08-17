@@ -26,4 +26,5 @@ Sales Data Analysis
    *Tools
 - Excel (Power Query, Pivot Tables, Charts)
    *Key Insights
+  Saled project Insights.docx
   
